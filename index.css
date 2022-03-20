@@ -1,0 +1,40 @@
+.wrapper{
+    background-image: url(imgs/wrapperimage.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+.header-h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-variant: small-caps;
+    font-style: normal;
+    font-size: 60px;
+    padding-top: 90px;
+}
+
+.header-p{
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.header-p-button{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.header-search-bar{
+    padding-top: 150px;
+}
+
+.div-body-h1{
+    padding-top: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
